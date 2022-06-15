@@ -13,6 +13,7 @@ $(document).ready(function () {
     var timeOfEntry = $(this).parent().attr("id");
 
     localStorage.setItem(timeOfEntry, textEntry);
+    console.log("Entry saved!");
   });
 
   function timeTracking() {
