@@ -54,5 +54,4 @@ If you would like to contribute to, or if you want to report issues for this pro
 
 ## Questions
 
-[Questions](#questions)
 If you have additional questions, please contact the developer at scarlinj@gmail.com.
