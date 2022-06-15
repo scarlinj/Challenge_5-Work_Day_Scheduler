@@ -43,16 +43,19 @@ textarea {
   border-top: 1px dashed #000000;
 }
 
+/* color blocks for past times */
 .past {
   background-color: #d3d3d3;
   color: white;
 }
 
+/* color blocks for current times */
 .present {
   background-color: #ff6961;
   color: white;
 }
 
+/* color blocks for future times */
 .future {
   background-color: #77dd77;
   color: white;
@@ -70,3 +73,30 @@ textarea {
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+/* include reactive formatting for mobile */
+
+@media screen and (min-width: 320px), screen and (max-width: 480) {
+  .row {
+    height: auto;
+    margin-top: 5px;
+    padding-right: 0%;
+  }
+
+  .hour {
+    padding-right: 0%;
+  }
+
+  .saveBtn {
+    border: 0;
+    border-radius: 0.5rem;
+    height: 75px;
+  }
+
+  textarea {
+    min-height: 65px;
+    border: 0;
+    box-shadow: 2px 4px #888888;
+  }
+}
+
