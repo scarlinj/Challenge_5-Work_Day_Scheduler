@@ -21,6 +21,10 @@ The starter code uses the [Moment.js](https://momentjs.com/) library to work wit
 
 Use this app to schedule your work day.  You can schedule and save appointments in a convenient online location that will store your input.  You can find the deployed application [Here](https://scarlinj.github.io/Work_Day_Scheduler/).
 
+See a screenshot for the site below:
+
+![Image of the Workday Scheduler](./assets/images/Preview%20Image.JPG "Password Generator")
+
 ## Features
 
 Future appointments will highlight in green, current appointments appear in red, and past appointments appear in grey.
