@@ -19,7 +19,7 @@ The starter code uses the [Moment.js](https://momentjs.com/) library to work wit
 
 ## About / Synopsis
 
-Use this app to schedule your work day.  You can schedule and save appointments in a convenient online location that will store your input.
+Use this app to schedule your work day.  You can schedule and save appointments in a convenient online location that will store your input.  You can find the deployed application [Here](https://scarlinj.github.io/Work_Day_Scheduler/).
 
 ## Features
 
